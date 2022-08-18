@@ -1,0 +1,53 @@
+loop Statements:- 
+
+if i want to execute one statement i can write once . 
+100 times i want to execute the statement 100 times 
+for loop :- 
+syntax for loop:- for(initialization;condition;increment/decrement) {
+
+	}  
+for(int i=0;i<10;i++){ i=0, i<10--true  i=1 1<10; i=2 .......9<10 true 10<10 false 
+
+
+}
+100 elements 
+break:- It will terminate the complete loop;
+continue:- It will skip one iteration; 
+for(int i=0;i<100;i++){
+}
+
+----------------------------------------------------------------------
+int i=5; 
+while(obj.studentName == "SattiBabu" ){
+i--;
+i++;
+i
+
+}
+----------------------------------------------------------------------------
+do {
+
+}while(condition) ;
+
+
+i will pass value from 1-100 
+the out put should be if it even number i should get even
+odd 
+print the table like
+15
+1x15=15;
+2x15=30;
+3x15=45;
+
+
+
+
+
+
+
+
+
+
+do-while loop
+
+enhanced for loop 
